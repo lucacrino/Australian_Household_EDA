@@ -33,3 +33,22 @@ This project builds a composite Financial Stress Score (0–100) across 5,000 sy
 ---
 ## 📊 Dataset Overview
 
+
+
+
+
+---
+## 🛠️ Tools & Libraries
+* Python 3.13.9 — core language.
+* Pandas — data manipulation, groupby, rolling windows, pivot tables.
+* NumPy — weighted composite scoring, polynomial trend fitting (`polyfit`), correlation matrices.
+* Seaborn — heatmaps, distribution plots, segmented comparisons.
+* Matplotlib — time-series charts, annotated trend lines, projection overlays.
+
+  
+Install dependencies with:
+```
+pip install -r requirements.txt
+```
+---
+
