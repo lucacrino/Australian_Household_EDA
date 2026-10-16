@@ -23,7 +23,7 @@ This project builds a composite Financial Stress Score (0–100) across 5,000 sy
 ├── data
 │   └── au_household_financial_stress.csv
 ├── outputs
-│   └── (exported charts, .png)
+│   └── (exported charts .png)
 ├── requirements.txt
 └── README.md
 ```
