@@ -37,6 +37,10 @@ This project builds a composite Financial Stress Score (0–100) across 5,000 sy
 
 
 
+
+
+
+
 ---
 ## 🛠️ Tools & Libraries
 * Python 3.13.9 — core language.
@@ -50,5 +54,14 @@ Install dependencies with:
 ```
 pip install -r requirements.txt
 ```
+
+
+
+
+
 ---
+## ⚠️ Data Disclaimer
+This dataset is synthetically generated for portfolio and educational purposes. Income distributions, housing cost structures, and macro trends are calibrated to reflect Australian market conditions — ABS income quintiles, the RBA rate hike cycle (2022–2023), and state-level cost differentials — but all individual household records are fictitious. Figures should not be cited as representative of actual Australian household statistics.
+
+
 
