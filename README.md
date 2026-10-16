@@ -32,10 +32,4 @@ This project builds a composite Financial Stress Score (0–100) across 5,000 sy
 
 ---
 ## 📊 Dataset Overview
-Attribute	Detail
-Households	5,000 unique households
-Observations	Quarterly — Q1 2022 to Q4 2026
-Total rows	100,000
-Geography	All 6 states + 2 territories
-Variables	21 columns
 
