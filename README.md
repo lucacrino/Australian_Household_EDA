@@ -61,7 +61,10 @@ pip install -r requirements.txt
 
 ---
 ## ⚠️ Data Disclaimer
-This dataset is synthetically generated for portfolio and educational purposes. Income distributions, housing cost structures, and macro trends are calibrated to reflect Australian market conditions — ABS income quintiles, the RBA rate hike cycle (2022–2023), and state-level cost differentials — but all individual household records are fictitious. Figures should not be cited as representative of actual Australian household statistics.
+This dataset is synthetically generated for portfolio and educational purposes. Income distributions, housing cost structures and macro trends are calibrated to reflect Australian market conditions — ABS income quintiles, the RBA rate hike cycle (2022–2023) and state-level cost differentials — but all individual household records are fictitious. 
+
+
+This is not a study of what happened — it is an attempt to model what *could* have happened, using realistic parameters. Figures should not be cited as representative of actual Australian household statistics.
 
 
 
