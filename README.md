@@ -19,7 +19,7 @@ This project builds a composite Financial Stress Score (0–100) across 5,000 sy
 
 ## 📂 Repository Structure
 ```
-├── au_financial_stress_analysis.ipynb   # Main analysis notebook
+├── aus_financial_stress_analysis.ipynb   # Main analysis notebook
 ├── data
 │   └── au_household_financial_stress.csv
 ├── outputs
