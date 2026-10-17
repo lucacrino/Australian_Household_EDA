@@ -33,6 +33,13 @@ This project builds a composite Financial Stress Score (0–100) across 5,000 sy
 ---
 ## 📊 Dataset Overview
 
+The analysis follows a single linear notebook (`aus_financial_stress_analysis.ipynb`), structured as follows:
+
+
+
+
+
+
 
 
 
