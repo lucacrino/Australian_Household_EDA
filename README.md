@@ -12,7 +12,7 @@
 ## 📌 Business Problem
 Between May 2022 and late 2023, the Reserve Bank of Australia raised interest rates 13 consecutive times — the sharpest tightening cycle in decades — while cost-of-living pressures accelerated across utilities, insurance, and everyday expenses.
 > **Which Australian households were under the most financial stress, what drove it, and where is it heading by 2029?**
-This project builds a composite Financial Stress Score (0–100) across 5,000 synthetic Australian households observed quarterly from Q1 2022 to Q4 2026, then projects the trajectory forward to 2029 using NumPy polynomial fitting — entirely in Pandas and NumPy, no machine learning libraries.
+This project builds a composite Financial Stress Score (0–100) across 5,000 synthetic Australian households observed quarterly from Q1 2022 to Q4 2026, then projects the trajectory forward to 2029 using NumPy polynomial fitting — entirely in Pandas and NumPy, no Machine Learning libraries.
 ---
 
 
