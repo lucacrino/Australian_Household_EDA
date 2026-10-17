@@ -35,15 +35,19 @@ This project builds a composite Financial Stress Score (0–100) across 5,000 sy
 
 The analysis follows a single linear notebook (`aus_financial_stress_analysis.ipynb`), structured as follows:
 
+| Section | Focus |
+|-------|------|
+| 0. Setup & Imports | Library imports, display settings |
+| 1. Data Loading & Quality Checks | Shape validation, missing values, dtype checks | 
+| 2. Financial Stress Score — Distribution | National distribution, stress bands | 
+| 3. Stress Trends Over Time (2022–2026) | Quarterly trend, RBA rate hike annotations | 
+| 4. State-Level Heatmap | Stress by state & quarter | 
+| 5. Segment Analysis |	Breakdown by household type, age, employment | 
+| 6. Stress Components Deep Dive | Housing ratio, savings rate, correlation matrix, debt load | 
+| 7. Predictive Projection (2027–2029) | NumPy polyfit national and state-level forecasts | 
+| 8. Business Insights & Recommendations | Narrative synthesis, segment prioritisation | 
 
-
-
-
-
-
-
-
-
+Each section opens with a short Markdown cell stating the business question being answered, followed by the supporting analysis.
 
 
 
