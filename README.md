@@ -7,6 +7,15 @@
 
 
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Schema & ERD](#schema-erd)
+- [Dataset Overview](#dataset-overview)
+- [Analyses & SQL Techniques](#analyses-sql-techniques)
+
+
+
+
 
 
 ## 📌 Business Problem
