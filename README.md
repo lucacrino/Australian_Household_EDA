@@ -8,15 +8,15 @@
 
 
 ## Table of Contents
-- [Project Overview](#project-overview)
-- [Schema & ERD](#schema-erd)
-- [Dataset Overview](#dataset-overview)
-- [Analyses & SQL Techniques](#analyses-sql-techniques)
+- [Business Problem](#business-prolem)
+- [Repository Structure](#repository-structure)
+- [Notebook Overview](#notebook-overview)
+- [tools & Libraries](#tools)
 
 
+---
 
-
-
+<a id="business-prolem"></a>
 
 ## 📌 Business Problem
 Between May 2022 and late 2023, the Reserve Bank of Australia raised interest rates 13 consecutive times — the sharpest tightening cycle in decades — while cost-of-living pressures accelerated across utilities, insurance and everyday expenses.
@@ -25,6 +25,7 @@ This project builds a composite Financial Stress Score (0–100) across 5,000 sy
 ---
 
 
+<a id="repository-structure"></a>
 
 ## 📂 Repository Structure
 ```
@@ -39,7 +40,10 @@ This project builds a composite Financial Stress Score (0–100) across 5,000 sy
 
 
 ---
-## 📊 Overview
+
+<a id="notebook-overview"></a>
+
+## 📊 Notebook Overview
 
 The analysis follows a single linear notebook (`aus_financial_stress_analysis.ipynb`), structured as follows:
 
@@ -61,6 +65,9 @@ Each section opens with a short Markdown cell stating the business question bein
 
 
 ---
+
+<a id="tools"></a>
+
 ## 🛠️ Tools & Libraries
 * Python 3.13.9 — core language.
 * Pandas — data manipulation, groupby, rolling windows, pivot tables.
