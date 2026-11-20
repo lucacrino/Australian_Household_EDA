@@ -11,7 +11,7 @@
 - [Business Problem](#business-prolem)
 - [Repository Structure](#repository-structure)
 - [Notebook Overview](#notebook-overview)
-- [tools & Libraries](#tools)
+- [Tools & Libraries](#tools)
 
 
 ---
