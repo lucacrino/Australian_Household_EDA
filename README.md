@@ -68,7 +68,7 @@ Each section opens with a short Markdown cell stating the business question bein
 
 ## 🔎 Key Findings
 
-
+images + text
 
 ---
 
