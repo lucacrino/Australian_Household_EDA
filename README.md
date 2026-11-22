@@ -11,6 +11,7 @@
 - [Business Problem](#business-prolem)
 - [Repository Structure](#repository-structure)
 - [Notebook Overview](#notebook-overview)
+- [Key Findings](#findings)
 - [Tools & Libraries](#tools)
 
 
@@ -61,6 +62,11 @@ The analysis follows a single linear notebook (`aus_financial_stress_analysis.ip
 
 Each section opens with a short Markdown cell stating the business question being answered, followed by the supporting analysis.
 
+--- 
+
+<a id="findings"></a> 
+
+## 🔎 Key Findings
 
 
 
